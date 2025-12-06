@@ -66,12 +66,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chumarhassan&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chumarhassan&layout=compact&theme=radical" height="150" />
-</div>
 
 ---
 
