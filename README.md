@@ -1,16 +1,14 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey, I'm Umar Hassan 👋</h1>
+<h3 align="center">Full-Stack Developer · BSE Student @ COMSATS University Islamabad</h3>
 
-###
-
-<h3 align="center">I'm Umar Hassan — a passionate Software Engineering student & full-stack developer 🚀</h3>
-
-###
+<p align="center">
+I build full-stack web & mobile apps (MERN, Flutter), ship real client websites as a freelancer,<br/>
+and I'm expanding into DevOps (Docker, Kubernetes, CI/CD) and test automation (Selenium, Cypress).
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,flutter,python,java,express,tailwind,bootstrap,git" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,dart,firebase,python,java,cpp,docker,kubernetes,git,mysql,tailwind,bootstrap" height="55" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/umar-hassan-ba35b2305" target="_blank">
@@ -29,56 +27,48 @@
 
 ---
 
-<h3 align="left">🧠 About Me</h3>
+### 🧠 About Me
 
-- 🔭 I’m currently working on **AgileMate**  
-- 🌱 Learning **MERN Stack, Flutter, AI Integration (OpenAI API), Advanced React Patterns**  
-- 👯 Open to collaborate on **Full-Stack (MERN/Flutter) projects**  
-- 🤝 Looking for help with **AI-powered Web Integrations & Cloud Deployments (Vercel, Render)**  
-- 👨‍💻 All of my projects: [github.com/chumarhassan](https://github.com/chumarhassan)  
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Flutter, GSAP Animations**  
-- 📫 Reach me: **chumarhassan999@gmail.com**  
-- ⚡ Fun fact: **🙂**
+- 🔭 Currently working on **AgileMate** — an AI-assisted Scrum/agile tool (MERN + OpenAI API)
+- 🌱 Recently expanded into **Docker, Kubernetes, Jenkins CI/CD, and Selenium/Cypress test automation**
+- 💼 Freelance: full-stack web development & social media management for clients
+- 💬 Ask me about: React, Node.js, MongoDB, Express, Flutter, JWT auth, AI API integrations
+- 📫 Reach me: **chumarhassan999@gmail.com**
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+### 🌐 Live Client Work
 
-<div align="center">
+Real, deployed sites built for clients — not demos:
+
+| Site | What it is |
+|---|---|
+| [friendscleaning.nl](https://friendscleaning.nl/) | Cleaning service site — booking flow, WhatsApp CTA, animations |
+| [nabservices.nl](https://nabservices.nl/) | Cleaning service site — separate brand, similar structure |
+| [scoopieandco.com](https://scoopieandco.com/) | Bakery site — custom cake orders, SEO meta + structured data |
+| [okaab.nl](https://okaab.nl/) | Strategic ventures site — GSAP animations, bilingual |
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|:--|:--|:--|
-| 🧠 [AI Income Predictor](https://github.com/chumarhassan/AI-Income-Predictor) | Predicts income levels using ML with a clean GUI & deep learning logic. | Python, Tkinter, Scikit-Learn |
-| 🌍 [SkyVoyager](https://github.com/chumarhassan/SkyVoyager) | Full-stack airplane booking system with real flight data, AI, & 3D/AR support. | React, Node.js, MongoDB, Express, Stripe |
-| 📊 [AgileMate](https://github.com/chumarhassan/AgileMate) | Automates Scrum Master tasks for Agile teams with sprints, tasks, and analytics. | MERN Stack |
-| 🍴 [FeastFleet](https://github.com/chumarhassan/FeastFleet) | Modern food delivery platform with restaurant & customer dashboards. | React, Express, MongoDB |
-| 🌾 [Smart Agriculture Tracker](https://github.com/chumarhassan/Smart-Agriculture-Tracker) | IoT-based farm monitoring system with weather & soil insights. | Flutter, Firebase, IoT APIs |
-
-</div>
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,python,java,cpp,html,css,tailwind,bootstrap,figma,git,postman,tensorflow" />
-</div>
+|---|---|---|
+| 🎙️ [Voice Ordering System](https://github.com/chumarhassan/restaurant-voice-ordering-system) | AI-powered restaurant ordering — voice + chat interface, kitchen dashboard, adaptable per restaurant | React, Node.js, Express, GitHub Models AI, ElevenLabs TTS |
+| 🌾 [Smart Agriculture Market Tracker](https://github.com/chumarhassan/agri-store) | Real-time agri market insights — price tracking, weather data, AI advice, farmer forum | React, Node.js, Express, MongoDB, Chart.js |
+| 💰 [FinanceFlow AI](https://github.com/chumarhassan/Finance_Flow_Ai) | Personal finance tracker with AI-powered categorization & insights | Flutter, Firebase, Groq API |
+| 🍴 [FeastFleet](https://github.com/chumarhassan/FeastFleet) | Food ordering platform with cart, JWT auth, restaurant dashboard *(group project w/ Zubaria Sajjad)* | React, Express, MongoDB |
+| 🧠 [AI Income Predictor](https://github.com/chumarhassan/AI-Income-Predictor) | ML income-bracket predictor with GUI, feature-importance & confusion-matrix visualizations | Python, Scikit-Learn, Tkinter |
+| 🎓 [COMSATS LMS](https://github.com/chumarhassan/CUI-ISB-SP23-BSE-6) | Full LMS with 4 role types (Admin/HOD/Teacher/Student) *(class collaborative project)* | React, Node.js, MongoDB |
+| 📊 [AgileMate](https://github.com/chumarhassan/AgileMate) | AI-powered Scrum Master assistant — sprint & task automation *(in progress)* | MERN, OpenAI API |
 
 ---
 
-
----
-
-<h3 align="center">🔥 Streak & Achievements</h3>
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chumarhassan&theme=radical&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chumarhassan&theme=radical&no-frame=true&no-bg=false&margin-w=8" height="150" />
 </div>
-
----
-
-<h3 align="center">🎮 Contribution Activity</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chumarhassan&bg_color=141321&color=ffffff&line=79ff97&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -86,4 +76,4 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for Visiting My Profile! ⭐</h3>
+<p align="center">⭐ Thanks for stopping by!</p>
