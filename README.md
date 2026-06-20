@@ -93,8 +93,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chumarhassan&theme=radical&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chumarhassan&theme=radical&no-frame=true&no-bg=false&margin-w=8" height="150" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/chumarhassan?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="60" alt="Pull Shark" /></a>
+  <a href="https://github.com/chumarhassan?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" height="60" alt="Quickdraw" /></a>
+  <a href="https://github.com/chumarhassan?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="60" alt="YOLO" /></a>
+</p>
 
 ### 🎮 Contribution Activity
 
