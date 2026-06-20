@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋 I'm Umar Hassan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Umar%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h3 align="center">Full-Stack Developer · Test Automation · DevOps</h3>
 
 <p align="center">
@@ -99,6 +102,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chumarhassan&bg_color=141321&color=ffffff&line=79ff97&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chumarhassan/chumarhassan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chumarhassan/chumarhassan/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/chumarhassan/chumarhassan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <h3 align="center">⭐ Thanks for visiting! ⭐</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+</p>
